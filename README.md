@@ -37,7 +37,8 @@ npm run build
 npx vue-cli-service build --modern
 ```
 ## How to build a simple plugin:
-Nice tutorial here: https://dev.to/nkoik/writing-a-very-simple-plugin-in-vuejs---example-8g8
+Nice tutorial here: https://dev.to/nkoik/writing-a-very-simple-plugin-in-vuejs---example-8g8  
+Docs in vue: https://vuejs.org/v2/guide/plugins.html#Writing-a-Plugin
 
 ## Installing SASS globally
 ```npm
